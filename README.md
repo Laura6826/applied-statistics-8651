@@ -15,15 +15,15 @@ This README file was written using the [GitHub's documentation on READMEs](https
 
 ## **Table of contents**
 
-1. [The purpose of this module.](#1-the-purpose-of-this-module).
-1. [Introduction](#2-introduction)
+1. [The purpose of this module.](#1-the-purpose-of-this-module)
+1. [Introduction.](#2-introduction)
 1. [How to get started.](#3-how-to-get-started)
 1. [How to get help.](#4-how-to-get-help)
 1. [How to contribute.](#5-how-to-contribute)
 
 ## 1. The purpose of this module
 
-As noted on the [applied-statistics github repository](https://github.com/ianmcloughlin/applied-statistics),the aim of this module is to enable you to demonstrate your ability to:
+As noted on the [applied-statistics github repository](https://github.com/ianmcloughlin/applied-statistics), the aim of this module is to enable you to demonstrate your ability to:
 
 1. Describe the stochastic nature of real-world measurements.
 1. Source documentation to programmatically perform a statistical test.
