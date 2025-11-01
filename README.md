@@ -32,7 +32,7 @@ As noted on the [applied-statistics github repository](https://github.com/ianmcl
 
 ## 2. Introduction
 
-
+This noteboook is created to fufil the assessment required for the module, Applied Statistics 25-25:(8651), Higher Diploma in Science, Data Analyticsis. aThe notebook is to demonstrate achievement of the learning outcomes for this module, to be submitted in a GitHub repository created solely for this assessment.
 
 ## 3. How to get started
 
@@ -67,7 +67,12 @@ A number of [additional files](https://github.com/github/gitignore/tree/main/Glo
 
 **Install the required packages**:
 
-For a seamless executition, I would also recommend you have access to the below libraries prior to running the files. The libraries required to run this project.
+For a seamless executition, I would also recommend you have access to the below libraries prior to running the files. The libraries required to run this project include:
+
+```ruby
+numpy
+matplot.lib
+```
 
 **1. How to run the virtual environment**:
 
