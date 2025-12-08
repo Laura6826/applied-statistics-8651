@@ -32,7 +32,7 @@ As noted on the [applied-statistics github repository](https://github.com/ianmcl
 
 ## 2. Introduction
 
-This noteboook is created to fufil the assessment required for the module, Applied Statistics 25-25:(8651), Higher Diploma in Science, Data Analyticsis. aThe notebook is to demonstrate achievement of the learning outcomes for this module, to be submitted in a GitHub repository created solely for this assessment.
+This noteboook is created to fufil the assessment required for the module, Applied Statistics 25-25:(8651), Higher Diploma in Science, Data Analyticsis. The notebook is to demonstrate achievement of the learning outcomes for this module, to be submitted in a GitHub repository created solely for this assessment.
 
 ## 3. How to get started
 
@@ -70,32 +70,23 @@ A number of [additional files](https://github.com/github/gitignore/tree/main/Glo
 For a seamless executition, I would also recommend you have access to the below libraries prior to running the files. The libraries required to run this project include:
 
 ```ruby
+math
+itertools
+random
 numpy
 matplot.lib
+pandas
+statsmodels
+scipy.stats
+seaborn
 ```
-
-**1. How to run the virtual environment**:
-
-To get started, open a terminal (or command prompt) and navigate to the root of the *applied-statistics-8651*. From there, activate the virtual environment by running the appropriate command for your operating system (for windows)
-
-```ruby
-venv\Scripts\activate
-```
-
-Once activated, you'll see the environment’s name in your prompt (typically preceded by “(venv)”), indicating that the isolated Python environment is running. This setup ensures that all dependencies installed via the requirements.txt file are used exclusively for this project.
 
 OR
 
-**2. Manually install @requirements.txt'**:
+**Manually install @requirements.txt'**:
 
 ```ruby
 pip install -r requirements.txt
-```
-
-**Project Structure**:
-
-```ruby
-
 ```
 
 ### Open in Visual Studio Code
