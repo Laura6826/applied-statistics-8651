@@ -1,4 +1,4 @@
-# Applied Statistics 25-25:(8651)
+# Applied Statistics 25-26:(8651)
 
 ## Assignments submitted as part of the module Applied Statistics 25-25:(8651), Higher Diploma in Science, Data Analytics
 
@@ -32,7 +32,7 @@ As noted on the [applied-statistics github repository](https://github.com/ianmcl
 
 ## 2. Introduction
 
-This noteboook is created to fufil the assessment required for the module, Applied Statistics 25-25:(8651), Higher Diploma in Science, Data Analyticsis. The notebook is to demonstrate achievement of the learning outcomes for this module, to be submitted in a GitHub repository created solely for this assessment.
+This noteboook is created to fufil the assessment required for the module, Applied Statistics 25-25:(8651), Higher Diploma in Science, Data Analytics. The notebook is to demonstrate achievement of the learning outcomes for this module, to be submitted in a GitHub repository created solely for this assessment.
 
 ## 3. How to get started
 
@@ -101,7 +101,6 @@ I have attached below, a number of helpful links, should you wish to extrapolate
 
 1. [Anaconda](https://www.atu.ie/sites/default/files/2024-02/aqae022-academic-integrity-policy-1.pdf)
 1. [Visual Studio Code](https://code.visualstudio.com/Download)
-1. [w3schools](https://www.w3schools.com/)
 1. [Pandas](https://pandas.pydata.org/)
 1. [Numpy](https://numpy.org/)
 1. [Matplotlib.py](https://matplotlib.org/)
