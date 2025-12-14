@@ -114,6 +114,50 @@ As this project was created to fulfil an assessment requirement of the Applied S
 
 Should you find any errors or have any recommendations, please submit a pull request on GitHub. or just wish to contact that author, you can do so at <maxwell6826@gmail.com>.
 
-***
+## 6. Bibliography
 
-### End
+### Problem 1
+
+1. ``random.sample`` was used for random sampling without replacement (<https://docs.python.org/3/library/random.html#random.sample>)
+
+### Problem 2
+
+1. An explaination of the normal distribution(<https://www.geeksforgeeks.org/python/how-to-plot-normal-distribution-over-histogram-in-python/>)
+1. ``np.random.seed()`` (<https://numpy.org/doc/stable/reference/random/generated/numpy.random.seed.html>)
+1. ``np.random.normal`` (<https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html>)
+1. ``np.random.Generator`` (<https://stackoverflow.com/questions/67703875/np-random-binomial-vs-random-choices-for-simulating-coin-flips>)
+1. ``Q-Q Plot`` (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.probplot.html>)
+1. ``flatten()`` (<https://numpy.org/doc/stable/reference/generated/numpy.ndarray.flatten.html>)
+1. ``probplot`` (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.probplot.html>)
+1. Shaprio-Wilk Test (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html>)
+1. ``numpy.std`` (<https://numpy.org/doc/stable/reference/generated/numpy.std.html>)
+1. ``numpy.mean`` (<https://numpy.org/doc/stable/reference/generated/numpy.mean.html#numpy-mean>)
+1. Set plot style for cleaner visuals (<https://matplotlib.org/stable/tutorials/introductory/customizing.html>)
+1. Create figure with specified size (<https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html>)
+1. Histograms ``density=True`` (<https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html>)
+1. ``np.linspace`` (<https://numpy.org/doc/stable/reference/generated/numpy.linspace.html>)
+1. ``norm.pdf`` (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html>)
+1. ``axvline`` (<https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axvline.html>)
+1. MathJax was used to generate AsciiMath notation. (<https://docs.python.org/3/library/random.html#random.sample.>)
+1. Jupyter notebook Markdown math usage (MathJax) — (<https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#markdown-cells>)
+1. ``ddof`` (<https://numpy.org/doc/stable/reference/generated/numpy.std.html>)
+1. Bessels Correction (<https://en.wikipedia.org/wiki/Bessel%27s_correction>)
+
+### Problem 3
+
+1. Hypothesis testing (<https://www.scribbr.com/statistics/hypothesis-testing/>) (<https://www.jmp.com/en/statistics-knowledge-portal/inferential-statistics/hypothesis-testing>)
+1. Type I & Type II Errors Explained (<https://www.scribbr.com/statistics/type-i-and-type-ii-errors/>)
+1. Type I and Type II Errors in Statistics (<https://www.geeksforgeeks.org/data-science/type-i-and-type-ii-errors/>)
+1. Statology – Understanding Type I and Type II Errors (<https://www.statology.org/understanding-type-errors/>)
+1. *t-test* (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html>)
+
+### Problem 4
+
+1. ANOVA (<https://www.geeksforgeeks.org/maths/anova-formula/>)
+1. ``f_oneway`` (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html>)
+1. Tukey Test (<https://www.geeksforgeeks.org/data-science/tukey-kramer-test-for-post-hoc-analysis/>)
+1. ``probplot`` (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.probplot.html#scipy.stats.probplot>)
+1. Shaprio-Wilk Test (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html>)
+1. Tukey test (<https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html>)
+1. ``df.describe()`` (<https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html>)
+1. ANOVA vs *t-test* (<https://metricgate.com/blogs/anova-vs-multiple-ttests/>)
