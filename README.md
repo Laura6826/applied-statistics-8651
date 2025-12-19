@@ -155,7 +155,8 @@ Should you find any errors or have any recommendations, please submit a pull req
 
 1. ``math.comb()``(<https://www.geeksforgeeks.org/python/python-math-comb-method/>)
 1. ``random.sample`` was used for random sampling without replacement (<https://docs.python.org/3/library/random.html#random.sample>)
-1. ``intersection`` (<>)
+1. ``intersection`` (<https://www.geeksforgeeks.org/python/intersection-function-python/>)
+1. ``np.unique`` (<https://numpy.org/doc/stable/reference/generated/numpy.unique.html>)
 
 #### Problem 2 citations
 
